@@ -1,0 +1,19 @@
+{
+    "data_types" : {
+        "numbers" : {
+            "integer" : 23,
+            "fraction" : 1.314
+        },        
+        "string" : "Hello World",
+        "boolean" : true,
+        "null" : null,
+        "array" : ["Apple", "Orange", false, 35]
+    },
+    "level 1" : {
+        "level 2" : {
+            "level 3" : {
+                "quotes": "'This is in single quotes.'"
+            }
+        }
+    }
+}
