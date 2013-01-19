@@ -1,24 +1,6 @@
 *.pyc
 __pycache__
+*.egg-info
+/dist
 
-*.tar.gz
 
-aclocal.m4
-config.log
-configure
-config.status
-install-sh
-Makefile
-Makefile.in
-missing
-py-compile
-
-/autom4te.cache/
-/m4/intltool.m4
-/po/POTFILES
-/po/Makefile.in.in
-/po/stamp-it
-/data/Makefile
-/data/json-hacker.desktop
-/data/*.gschema.valid
-/src/json-hacker
